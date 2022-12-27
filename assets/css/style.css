@@ -1,0 +1,396 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.navbar{
+    padding: 10px;
+    background-color: #264B52;
+    
+    
+
+}
+.navbar > ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+}
+.navbar > ul > li > a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    
+}
+.fotomenu{
+    width: 100%;
+    height: 352px;
+}
+.Empresa{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px;
+    color: #264B52;
+    font-size: 100px;
+    border: solid;color: #264B52;
+    margin-top: 20px;
+}
+.TituloInicial{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+    color: #264B52;
+}
+.Orcrist{
+    padding: 20px;
+    margin-left: 400px;
+    width: 400px;
+    height: 400px;
+}
+.textoorcrist{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 10px;
+    font-weight: 500;
+    color: #264B52;
+}
+.pagina{
+    background-color: #C5D4E6;
+}
+.boton{
+    margin-top: 10px;
+    margin-left: 565px;
+    width: 110px;
+    padding: 5px;
+    color: #264B52;
+    font-weight: 700;   
+}
+.boton > a{
+    text-decoration: none;
+    color: #264B52;
+}
+.testimonios{
+    text-align: center;
+    font-size: 65px;
+    margin-top: 100px;
+    border: solid;color: #264B52;
+    color: #264B52;
+}
+.giorgio{
+    margin-top: 65px;
+    margin-left: 525px;
+    height: 350px;
+}
+.loremgiorgio{
+    text-align: center;
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #264B52;
+    font-weight: 520;
+}
+.nombre1{
+    text-align: center;
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.carl{
+    margin-top: 50px;
+    margin-left: 400px;
+    height: 350px;
+}
+.loremcarl{
+    text-align: center;
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #264B52;
+    font-weight: 520;
+}
+.nombre2{
+    text-align: center;
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footerimgs{
+    display: flex;
+    justify-content: baseline;
+    justify-content: space-between;
+    margin-top: 50px;
+    background-color: #264B52;
+}
+.wsp{
+    width: 100px;
+    height: 100px;
+}
+.fb{
+    width: 100px;
+    height: 100px
+}
+.ig{
+    width: 100px;
+    height: 100px
+}
+.yt{
+    width: 120px;
+    height: 100px
+}
+.footerfacu{
+    background-color: #264B52;
+}
+.facundo{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.footer{
+    background-color: #264B52;
+}
+.tituloespadas{
+    text-align: center;
+    color: #264B52;
+    font-weight: 530;
+    font-size: 80px;
+    margin-top: 40px;
+    border: solid;color: #264B52;
+}
+.tarjeta{
+    margin: 20px;
+    margin-top: 70px;
+    width: 200px;
+    border: solid 2px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #264B52;
+    border-width: 2px;
+
+}
+.tarjeta__img{
+    width: 100%;
+    border-radius: 5px;
+    border: solid;color: #264B52;
+}
+.tarjeta__nombre{
+    margin: 10px;
+    font-size: 40px;
+    color: #264B52;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tarjeta__desc{
+    margin: 10px;
+    color: #264B52;
+
+}
+.tarjeta__btn{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #264B52;
+    color: white;
+    margin: 10px;
+}
+.botonespada1{
+    text-decoration: none;
+    color: white;
+}
+.productos{
+    display: flex;
+    justify-content: center;
+}
+.tituloOrcrist{
+    text-align: center;
+    color: #264B52;
+    font-size: 100px;
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid;color: #264B52;
+}
+.EspadasOrcrist{
+    width: 420px;
+    height: 420px;
+    margin-left: 420px;
+    margin-top: 50px;
+    border: solid;color: #264B52;
+    border-radius: 10px;
+    border-style: double 30px;
+    display: flex;
+    justify-content: center;
+
+}
+.productodesc{
+    text-align: center;
+    color: #264B52;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.precio{
+    text-align: center;
+    color: #215AAD;
+    font-size: 60px;
+}
+.botoncomprar{
+    margin-left: 530px;
+    margin-top: 10px;
+    padding: 6px;
+    background-color: #264B52;
+    color: #C5D4E6;
+    border-radius: 10px;
+    width: 200px;
+    font-size: 25px;
+}
+.procesoyt{
+    text-align: center;
+    color: #264B52;
+    border: solid;color: #264B52;
+    font-size: 40px;
+    margin-top: 80px;
+    padding: 10px;
+}
+.videoyt{
+    margin-left: 340px;
+    margin-top: 65px;
+    border: solid;color: #264B52;
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.titulocontactanos{
+    text-align: center;
+    color: #264B52;
+    font-size: 100px;
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid;color: #264B52;
+}
+.mapa{
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.castillo{
+    text-align: center;
+    color: #264B52;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.telefono{
+    margin-left: 115px;
+    color: #264B52;
+    font-size: 60px;
+    margin-top: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.numerotelefono1{
+    margin-left: 520px;
+    color: #264B52;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ó{
+    margin-left: 625px;
+    color: #264B52;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.numerotelefono2{
+    margin-left: 520px;
+    color: #264B52;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.whatsapp{
+    margin-left: 115px;
+    color: #264B52;
+    font-size: 60px;
+    margin-top: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.numerowsp{
+    margin-left: 520px;
+    color: #264B52;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.aprender{
+    text-align: center;
+    color: #264B52;
+    font-size: 40px;
+    margin-top: 75px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid;color: #264B52;
+    border-style: dashed;
+}
+.solicitud{
+    text-align: center;
+    color: #264B52;
+    font-size: 20px;
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.contanos{
+    color: #264B52;
+}
+.somos{
+    text-align: center;
+    color: #264B52;
+    font-size: 100px;
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid;color: #264B52;
+}
+.fotosomos{
+    margin-left: 265px;
+    margin-top: 60px;
+    width: 750px;
+    height: 450px;
+    border: solid;color: #264B52;
+}
+.infosomos{
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.viaje{
+    text-align: center;
+    color: #264B52;
+    font-weight: 530;
+    font-size: 80px;
+    margin-top: 40px;
+    border: solid;color: #264B52;
+}
+.frase{
+    text-align: center;
+    padding: 30px;
+    font-family: Georgia;
+    color: #264B52;
+    font-weight: 520;
+}
+.Stephen{
+    text-align: center;
+    font-size: 23px;
+}
+.taller{width: 50%;
+    height: 80%;
+    margin-left: 300px;
+    margin-top: 55px;
+    border: solid;color: #264B52;
+    border-radius: 20px;
+    border-width: 5px;
+}
+.infoprincipio{
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
