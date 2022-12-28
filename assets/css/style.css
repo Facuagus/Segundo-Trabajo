@@ -276,46 +276,66 @@
     margin-top: 20px;
     margin-left: 30px;
 }
+.numeroscard {
+    display: flex;
+    justify-content: center;
+}
+.telefonocard {
+    margin: 20px;
+    margin-top: 70px;
+    margin-left: 10px;
+    width: 200px;
+    border: solid 100px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #264B52;
+    border-width: 2px;
+}
 .telefono{
-    margin-left: 115px;
     color: #264B52;
-    font-size: 60px;
+    font-size: 35px;
     margin-top: 60px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .numerotelefono1{
-    margin-left: 520px;
     color: #264B52;
-    font-size: 30px;
-    margin-top: 10px;
+    font-size: 20px;
+    margin-top: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .ó{
-    margin-left: 625px;
     color: #264B52;
-    font-size: 30px;
-    margin-top: 10px;
+    font-size: 20px;
+    margin-top: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .numerotelefono2{
-    margin-left: 520px;
     color: #264B52;
-    font-size: 30px;
-    margin-top: 10px;
+    font-size: 20px;
+    margin-top: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.whatsappcard {
+    margin: 20px;
+    margin-top: 70px;
+    margin-left: 10px;
+    width: 200px;
+    border: solid 100px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #264B52;
+    border-width: 2px;
+}
 .whatsapp{
-    margin-left: 115px;
     color: #264B52;
-    font-size: 60px;
+    font-size: 35px;
     margin-top: 60px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .numerowsp{
-    margin-left: 520px;
     color: #264B52;
-    font-size: 30px;
-    margin-top: 10px;
+    font-size: 20px;
+    margin-top: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .aprender{
