@@ -4,20 +4,20 @@
     box-sizing: border-box;
     
 }
-.navbar{
+.minavbar{
     padding: 10px;
     background-color: #264B52;
     
     
 
 }
-.navbar > ul {
+.minavbar > ul {
     list-style: none;
     display: flex;
     justify-content: center;
     
 }
-.navbar > ul > li > a{
+.minavbar > ul > li > a{
     text-decoration: none;
     color: white;
     font-size: 30px;
@@ -350,6 +350,12 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: solid;color: #264B52;
 }
+@media(max-width:768px) {
+    .somos{
+        width: 100%;
+        text-align: start;
+    }
+}
 .fotosomos{
     margin-left: 265px;
     margin-top: 60px;
@@ -393,4 +399,34 @@
     margin-top: 20px;
     margin-left: 80px;
     margin-right: 80px;
+}
+.navbar{
+    background-color: #264B52 !important
+}
+.navbar-brand{
+    color: white;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.nav-link{
+    color: white;
+    font-size: 25px;
+}
+.carousel-tarjeta{
+    width: 900px;
+    margin-left: 200px;
+    }
+.carousel-tarjeta2{
+    width: 900px;
+    margin-left: 200px;
+}
+@media(max-width:768px) {
+    .carousel-tarjeta{
+        width: 100%;
+        margin-left:0;
+    }
+    .carousel-tarjeta2{
+        width: 100%;
+        margin-left:0;
+    }
 }
